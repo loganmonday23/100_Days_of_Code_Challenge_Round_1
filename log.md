@@ -24,3 +24,11 @@ https://github.com/loganmonday23/Tribute_Page
 **Thoughts**: I created a really neat looking personal website that mentions a few different things about me, and also includes a photo of myself, and it was cool to see how the links, and setup of the website's core basic HTML code structure works as expected. Figuring out the CSS to write without being given the specific code examples that tell me exactly what CSS to write, such as, the properties, and the values for those properties for a rule given to certain selectors in the CSS code, is difficult for me to know how to write the CSS code when just given the instruction to in a way that doesn't give me the answer very specifically, but I was understanding a little of it, and figuring out some of the properties, and parts of the CSS code on my own with just the instructions that were provided that didn't provide the exact code to write for the value of properties for different selectors in the CSS code. I'm hoping that it won't be as difficult to learn CSS as I feel like it'll be.
 
 **Link to Work**: https://loganmonday23.github.io/personal-website/
+
+### Day 4: January 28, 2025
+
+**Today's Progress:** I continued working on creating the html for the pages of my personal website that I've made, and updated each page's navigation menu, and included a footer section at the bottom of each page. I also expanded the "About Me" section on my Home page, and made a new section for my skills to be listed in on the Home page, as well. I added a new page, too, that will have my resume linked on it when I create a resume, but for now it tells visitors what to do if they're looking to get my resume at this time until I have my resume finished.
+
+**Thoughts:** I'm really liking how the HTML of my personal website are coming along, and I feel like I've done really well at building the structure of each page. It excites me to watch how much it progresses from each time I've worked on adding more, and more to the HTML of this project.
+
+**Link to work:** https://loganmonday23.github.io/personal-website/
